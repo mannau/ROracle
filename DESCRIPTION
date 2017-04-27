@@ -12,7 +12,7 @@ Depends: methods, DBI (>= 0.2-5)
 Imports: utils
 License: LGPL
 URL: http://www.oracle.com
-Collate: dbi.R oci.R zzz.R
+Collate: dbi.R
 NeedsCompilation: yes
 Packaged: 2016-10-15 04:41:00 UTC; aime
 Repository: CRAN
